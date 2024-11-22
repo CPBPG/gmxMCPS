@@ -18,7 +18,7 @@ A python workflow for setting up a TASS simulation for solute permeation through
 
 4. Taking the .dat files as input, the runMCPS.py script performs the Monte-Carlo pathway search algorithm to identify a user-specified number of paths.
 
-5. Subsequently, the FilterTransitions.py script to classify the calculated pathways into pathI and pathII type transitions and writes coordinate data for the top path to a PDB file.
+5. Subsequently, the filterTransitions.py script to classify the calculated pathways into pathI and pathII type transitions and writes coordinate data for the top path to a PDB file.
 
 6. Finally, run the setupInputs.py on the user-selected pathway dataset to generate the inputs for the windows required for TASS simulations.
 
