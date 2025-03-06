@@ -29,8 +29,9 @@ For details refer to DETAILS.pdf.
 ## References
 If you use this script, please cite:
 
-Haloi N. et al.  Rationalizing the generation of broad-spectrum antibiotics with the addition of a positive charge. Chem Sci. 2021 Nov 24; 12(45): 15028–15044.
-Acharya A., Kleinekathoefer U. Improved Free-Energy Estimates for the Permeation of Bulky Antibiotic Molecules through Porin Channels Using Temperature3 Accelerated Sliced Sampling. J. Chem. Theory. Comput. doi: 10.1021/acs.jctc.4c01679
+1. Haloi N. et al.  Rationalizing the generation of broad-spectrum antibiotics with the addition of a positive charge. Chem Sci. 2021 Nov 24; 12(45): 15028–15044.
+   
+2. Acharya A., Kleinekathoefer U. Improved Free-Energy Estimates for the Permeation of Bulky Antibiotic Molecules through Porin Channels Using Temperature3 Accelerated Sliced Sampling. J. Chem. Theory. Comput. doi: 10.1021/acs.jctc.4c01679
 
 
 ## Author
