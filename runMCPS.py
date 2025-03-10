@@ -21,7 +21,9 @@ In you use the present implementation of gmxMCPS, please cite the following:
 1. Haloi N. Rationalizing the generation of broad spectrum antibiotics with the addition 
    of a positive charge. Chem Sci. 2021 Nov 24; 12(45): 15028–15044.
 
-2. Our manuscript.
+2. Acharya A., Kleinekathöfer U. Improved Free Energy Estimates for the Permeation of Bulky 
+   Antibiotic Molecules through Porin Channels using Temperature Accelerated Sliced 
+   Sampling. J. Chem. Theory Comput. 2025 
 
 """
 import argparse
